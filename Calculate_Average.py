@@ -4,7 +4,7 @@ def calc_ave(ls):
 
     return ave
 
-#test=[4,7,9,3,5]
+
 
 test=[int(x) for x in input("Enter the values separated by spaces to calculate Average: ").split()]
 
